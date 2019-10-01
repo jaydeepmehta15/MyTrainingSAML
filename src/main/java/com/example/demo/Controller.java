@@ -14,6 +14,7 @@ public class Controller {
 		
 		return "Hello" + principal;
 		
+		
 	}
 	
 }

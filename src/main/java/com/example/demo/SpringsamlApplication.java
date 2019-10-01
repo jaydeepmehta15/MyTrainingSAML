@@ -12,4 +12,6 @@ public class SpringsamlApplication {
 		SpringApplication.run(SpringsamlApplication.class, args);
 	}
 
+	
+	
 }
